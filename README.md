@@ -11,9 +11,7 @@
 - 🛠️ Costumo auxiliar em monitorias de programação e ministrando oficinas introudutórias para calouros na faculdade.
 - 🔭 Curiosidade: Amante de todo tipo de jogo, mas não muito bom na maioria.
 
-<br>
 <hr>
-<br>
 
 ### ⚡ Habilidades Principais:
 
@@ -38,14 +36,12 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
 
-<br>
 <hr>
 
 <br>
 
 ### 💡 Estatísticas gerais
 
-<br>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lopeznovais">
 
@@ -53,11 +49,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopeznovais&layout=compact&hide=ruby)](https://github.com/lopeznovais/)
 
-<br>
 
 <hr>
-
-<br>
 
 ## 💬 Entre em contato! ✉️
 
