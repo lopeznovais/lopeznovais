@@ -38,14 +38,12 @@
 
 <hr>
 
-<br>
-
 ### 💡 Estatísticas gerais
 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lopeznovais">
 
-<br><br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopeznovais&layout=compact&hide=ruby)](https://github.com/lopeznovais/)
 
