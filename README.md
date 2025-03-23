@@ -4,7 +4,7 @@
 
 ### 👦Sobre mim :seedling: :
 
-- 👋 Me chamo **Pedro Lopez Novais**, tenho 26 anos.
+- 👋 Me chamo **Pedro Lopez Novais**, tenho 28 anos.
 - 📌 De Campo Grande, Mato Grosso do Sul, Brasil.
 - 💼 Atualmente estou em busca de uma oportunidade para colocar meus conhecimentos em prática.
 - 🎓 Recém formado em Ciência da Computação pela UFMS e também no curso técnico em informática do IFMS (voltado para programação).
